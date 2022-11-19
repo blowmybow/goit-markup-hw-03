@@ -274,6 +274,8 @@ padding-bottom: 94px;
 /* basement */
 .footer {
     background-color: var(--hero-bg-color);
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .footer-logo {
@@ -285,7 +287,6 @@ padding-bottom: 94px;
     color: var(--primary-white-color);
     text-decoration: none;
     display: inline-block;
-    margin-top: 60px;
 }
 .footer-logo-color {
     color: var(--accent-color);
@@ -335,7 +336,6 @@ padding-bottom: 94px;
     letter-spacing: 0.03em;
     text-decoration: none;
     margin-top: 12px;
-    margin-bottom: 60px;
 }
 .footer-item .tel {
     display: inline-block;
